@@ -1,7 +1,7 @@
 package com.programiz;
 //Java Program to Calculate the Sum of Natural Numbers
 public class Calculate_The_Sum_Of_Natural_Numbers {
-	System.out.println("Welcome");
+	
 public static void main(String[] args) {
 int num=10;
 int b=0;
